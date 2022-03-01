@@ -1,17 +1,26 @@
-### const hello = () => 'Hello, World!'
-### console.log(hello())
+## 👋 whoami
+I'm a Computer Science student at UNIFACS, I'm interested in programming in general, I also have knowledge in the area of Web development with Javascript-based technologies. I am currently interested in blockchain technology.
 
-<!--
-**grpineiro/grpineiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📦 My Stack
+### 🖥️ Technologies
+- Node.js
 
-Here are some ideas to get you started:
+### 🗣️ Languages
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- Lua
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Frameworks / Libs
+- React.js
+- Express
+- Jest
+
+### 💾 Databases
+- PostgresSQL
+- MongoDB
+
+### 📓 Studying...
+- Bitcoin
