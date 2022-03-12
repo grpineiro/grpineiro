@@ -19,8 +19,8 @@ I'm a Computer Science student at UNIFACS, I'm interested in programming in gene
 - Jest
 
 ### 💾 Databases
-- PostgresSQL
+- PostgreSQL
 - MongoDB
 
 ### 📓 Studying...
-- Bitcoin
+- Bitcoin and Ethereum
