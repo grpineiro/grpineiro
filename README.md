@@ -1,5 +1,5 @@
 ## 👋 whoami
-I'm a Computer Science student at UNIFACS, I'm interested in programming in general, I also have knowledge in the area of Web development with Javascript-based technologies. I am currently interested in blockchain technology.
+I'm a Computer Science student at UNIFACS, I'm interested in programming in general, I also have knowledge in the area of Web development with Javascript-based technologies.
 
 ## 📦 My Stack
 ### 🖥️ Technologies
@@ -21,6 +21,4 @@ I'm a Computer Science student at UNIFACS, I'm interested in programming in gene
 ### 💾 Databases
 - PostgreSQL
 - MongoDB
-
-### 📓 Studying...
-- Bitcoin and Ethereum
+- 
