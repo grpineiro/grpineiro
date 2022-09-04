@@ -1,5 +1,5 @@
 ## 👋 whoami
-I'm a Computer Science student at UNIFACS, I'm interested in programming in general, I also have knowledge in the area of Web development with Javascript-based technologies.
+I'm interested in programming in general, I also have knowledge in the area of Web development with Javascript-based technologies.
 
 ## 📦 My Stack
 ### 🖥️ Technologies
